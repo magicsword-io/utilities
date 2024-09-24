@@ -19,8 +19,8 @@ def sanitize_id(id_string, prefix='ID'):
 
 st.set_page_config(page_title="WDAC Meta Extraction", page_icon="🛡️", layout="wide")
 
-logo_path = "assets/logo.png"
-st.image(logo_path, width=150)
+# logo_path = "assets/logo.png"
+# st.image(logo_path, width=150)
 
 st.markdown(
     """

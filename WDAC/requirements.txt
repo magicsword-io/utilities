@@ -1,3 +1,4 @@
 streamlit
 lief
 cryptography
+asn1crypto
